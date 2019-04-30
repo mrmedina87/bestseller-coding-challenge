@@ -1,0 +1,3 @@
+export const ADD_GIFTCARD = 'ADD_GIFTCARD';
+export const SET_IS_APPLYING = 'SET_IS_APPLYING';
+export const SET_ERROR_MSG = 'SET_ERROR_MSG';

@@ -1,0 +1,25 @@
+{
+  "gift-cards": [
+    {
+      "id": 1,
+      "number": "0000123456789012345",
+      "ctrlCode": "001",
+      "discount": "20",
+      "applied": false
+    },
+    {
+      "id": 2,
+      "number": "0000123456789012346",
+      "ctrlCode": "002",
+      "discount": "21",
+      "applied": false
+    },
+    {
+      "id": 3,
+      "number": "0000123456789012347",
+      "ctrlCode": "003",
+      "discount": "22",
+      "applied": true
+    }
+  ]
+}
